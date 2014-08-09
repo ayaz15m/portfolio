@@ -1,0 +1,13 @@
+---
+title: Week 2
+date: 2014-06-26 18:58 UTC
+tags:
+---
+
+We began week 2 by going over the weekend projects from week 1. Similar concepts
+being used over again helped familiarize them to me. During the middle of week,
+as a class we built the game 2048. I thought this was really cool that we can
+use ruby to build the game. At the end of week 2 we were assigned to make a
+blackjack game!
+
+![](http://media.giphy.com/media/J4XchEOGOMdsA/giphy.gif)

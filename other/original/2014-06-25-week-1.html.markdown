@@ -1,0 +1,21 @@
+---
+title: Week 1
+date: 2014-06-25
+
+---
+
+
+
+Since the first day we hit the ground running. We started to use ruby right away.
+Because I had no prior ruby experience some concepts were thrown at me which it
+took some to get a good grasp on them. For me, the homework every night using
+homework helped me to use and play around with the recently learned concepts. At
+the end of week we were assigned a weekend project which required us to build a
+concert application.
+
+## About Me
+
+My name is Ayaz Merchant and I am current taking the Ruby on Rails course at the
+Iron Yard Academy in Houston. Follow me on my journey through this 12 week trek.
+
+![](http://media1.giphy.com/media/suymzXyDbuEPC/giphy.gif)

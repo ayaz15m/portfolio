@@ -1,0 +1,29 @@
+---
+title: Week 3
+date: 2014-06-27 18:50 UTC
+tags:
+---
+
+
+This week was a little bit different as we began to steer away from ruby and got
+into TDD, Git, Middleman, HTML. I have never done testing before so the concept
+of incorporating into the coding process was not that clear for me. But I think
+like with any concept, practice and exposure over time will get me more accustomed
+to it.
+
+This week our weekend project consisted of writing a program with some kind of
+character which can be tested and use git to put it onto Github. Then we needed
+to create a HTML describing the project. For my program I made a bank account
+which allows the user to withdraw and make deposits.
+
+The tests I did for this project included: the balance is given without doing
+anything, the balance after a deposit is made, the balance after a withdrawal is
+made, and the balance after a deposit and a withdrawal are made together.
+
+After adding the rest of the code, which displays output and lets user input info,
+I had some trouble running the tests afterwards because I was trying to use different
+values. This problem got solved by have the code required for the tests in one
+class and the rest of the code in another class. Once the 2 classes were made
+everything worked smoothly!
+
+![](http://media1.giphy.com/media/E6fZ47O87uC7S/giphy.gif)
