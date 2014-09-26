@@ -610,11 +610,11 @@
 	/* Dark */
 
 		.dark {
-			color: #fff;
+			color: #3498db;
 		}
 
 			.dark a {
-				color: #fff;
+				color: #3498db;
 			}
 
 			.dark .button.style2 {
